@@ -1,0 +1,14 @@
+{
+  "name": "js-object",
+  "version": "1.0.0",
+  "description": "js oop experiment",
+  "main": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "jest": "^27.4.7"
+  }
+}
